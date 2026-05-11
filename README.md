@@ -14,7 +14,7 @@ The current version of this application only currently works on Windows OS.
 This application was written in Python version 3.14.3
 Ensure that you have at least this version of python installed on your device.
 <br>
-<br>
+
 
 ## File contents
 This file contains 5 subfolders, 1 *requirements.txt*, 1 installation file, and 1 execution file.
