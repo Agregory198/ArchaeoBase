@@ -5,7 +5,7 @@ This project outlines an application to upload, process, analyze, and store arch
 
 # Application download
 <br>
-<br>
+
 To download Version 9.2 of this application, download the zip folder and extract to a permenant location on your computer.
 <br>
 <br>
@@ -19,7 +19,7 @@ Ensure that you have at least this version of python installed on your device.
 ## File contents
 This file contains 5 subfolders, 1 *requirements.txt*, 1 installation file, and 1 execution file.
 <br>
-<br>
+
 *testFiles*: This folder contains several documents used to test the application including total station coordinate data, lab data, and recorder data. Please ensure that all files are saved as a CSV to import into the application. the *StratUnitDescription.csv* needs to be UTF-8 coded. This is an option when exporting from a .xlsx document
 <br>
 <br>
