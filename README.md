@@ -6,7 +6,9 @@ This project outlines an application to upload, process, analyze, and store arch
 # Application download
 <br>
 
-To download Version 9.2 of this application, download the zip folder and extract to a permenant location on your computer.
+To download Version 9.2 of this application, download the zip folder and extract to a permenant location on your computer. If this version is downloaded, please follow the following instructions.
+<br>
+There is a **new** release of the apoplication that does not require manual installation of python. The only require is to navigate to release v1.0.0, download the zipped folder, unzip in a stable directory, and double click the .exe file. This currently only runs on windows OS.
 <br>
 <br>
 ## Software requirements
