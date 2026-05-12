@@ -9,7 +9,7 @@ This project outlines an application to upload, process, analyze, and store arch
 To download Version 9.2 of this application, download the zip folder and extract to a permenant location on your computer. If this version is downloaded, please follow the following instructions.
 <br>
 <br>
-There is a **new** release of the apoplication that does not require manual installation of python. The only require is to navigate to release v1.0.0, download the zipped folder, unzip in a stable directory, and double click the .exe file. This currently only runs on windows OS.
+There is a **new** release of the apoplication that does not require manual installation of python. The only requirement is to navigate to release v1.0.0, download the zipped folder, unzip in a stable directory, and double click the .exe file. This currently only runs on windows OS.
 <br>
 <br>
 The *testData.zip* file contains field data that can be used to test the appolication including including .txt, .csv, and access databases. Please note that the application requires .txt. and .csv files (preferably UTF-8 coded)
